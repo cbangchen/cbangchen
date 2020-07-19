@@ -7,6 +7,10 @@
 - [Block 和循环相关的几个问题](https://cbangchen.github.io/2018/12/12/block&cycle/)
 - [App Extension](https://cbangchen.github.io/2019/07/18/app-extension/)
 
+### Project
+
+- [包子记账](https://apps.apple.com/cn/app/id1484262528): 轻量记账, 旨在提高人们日常生活记账的效率。
+
 <!--
 **cbangchen/cbangchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
