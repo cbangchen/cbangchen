@@ -1,5 +1,6 @@
 ### Hi there～ 👋
 
+- 📮 [cbangchen007@gmail.com](cbangchen007@gmail.com)
 - 📖 [cbangchen's BLOG](https://cbangchen.github.io/)
 
 ### Latest Blogs
