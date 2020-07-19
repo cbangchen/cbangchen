@@ -1,6 +1,11 @@
-### 大家好～ 👋
+### Hi there～ 👋
 
+- 📖 [cbangchen's BLOG](https://cbangchen.github.io/2019/07/18/app-extension/)
 
+### Latest Blogs
+
+- [Block 和循环相关的几个问题](https://cbangchen.github.io/2018/12/12/block&cycle/)
+- [App Extension](https://cbangchen.github.io/2019/07/18/app-extension/)
 
 <!--
 **cbangchen/cbangchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
