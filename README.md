@@ -1,6 +1,6 @@
 ### Hi there～ 👋
 
-- 📖 [cbangchen's BLOG](https://cbangchen.github.io/2019/07/18/app-extension/)
+- 📖 [cbangchen's BLOG](https://cbangchen.github.io/)
 
 ### Latest Blogs
 
