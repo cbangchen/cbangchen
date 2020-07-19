@@ -5,9 +5,9 @@
 
 ### Latest Blogs
 
-- [【iOS】Block 和循环相关的几个问题](https://cbangchen.github.io/2018/12/12/block&cycle/)
-- [【iOS】App Extension](https://cbangchen.github.io/2019/07/18/app-extension/)
-- [【音视频】音频基础概念&常见编码标准](https://cbangchen.github.io/2020/03/07/av-basic-concept/)
+- [Block 和循环相关的几个问题](https://cbangchen.github.io/2018/12/12/block&cycle/)
+- [App Extension 扩展](https://cbangchen.github.io/2019/07/18/app-extension/)
+- [音频基础概念 & 常见编码标准](https://cbangchen.github.io/2020/03/07/av-basic-concept/)
 
 ### Project
 
