@@ -11,4 +11,4 @@
 
 ### Project
 
-- [包子记账](https://apps.apple.com/cn/app/id1484262528): 轻量记账, 旨在提高人们日常生活记账的效率。
+- [iCost](https://apps.apple.com/cn/app/id1484262528): 轻量记账, 旨在提高人们日常生活记账的效率。
